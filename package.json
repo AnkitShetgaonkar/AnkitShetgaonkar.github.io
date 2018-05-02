@@ -2,9 +2,10 @@
   "name": "cloud-app",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://myusername.github.io",
+  "homepage": "https://myusername.github.io",
   "dependencies": {
     "gh": "^1.12.11",
+    "gh-pages": "^1.1.0",
     "pages": "0.0.16",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
@@ -16,6 +17,9 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build"
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages-deploy": "^0.5.0"
   }
 }
