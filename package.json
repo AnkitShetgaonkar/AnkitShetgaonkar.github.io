@@ -2,7 +2,7 @@
   "name": "website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://myusername.github.io/website",
+  "homepage": "https://ankitshetgaonkar.github.io/website",
   "dependencies": {
     "gh": "^1.12.11",
     "gh-pages": "^1.1.0",
