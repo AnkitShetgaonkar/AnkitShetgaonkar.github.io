@@ -2,7 +2,7 @@
   "name": "cloud-app",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://ankitshetgaonkar.github.io/cloud-app",
+  "homepage":"https://myusername.github.io",
   "dependencies": {
     "gh": "^1.12.11",
     "pages": "0.0.16",
